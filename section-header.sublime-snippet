@@ -1,8 +1,9 @@
 <snippet>
   <content><![CDATA[// ${1:SECTION}
-// -------------------------------------------------------------------------------$0
+// ----------------------------------------------------------------------------
+$0
 ]]></content>
-  <tabTrigger>//</tabTrigger>
-  <description>\/\/ SECTION HEADER \/\/ ------ </description>
+  <tabTrigger>`</tabTrigger>
+  <description>// SECTION HEADER // ------ </description>
   <scope>source.scss</scope>
 </snippet>
