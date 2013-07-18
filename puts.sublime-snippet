@@ -2,7 +2,7 @@
   <content><![CDATA[// ${1:SECTION}"
 // -------------------------------------------------------------------------------$0
 ]]></content>
-  <tabTrigger>//</tabTrigger>
+  <tabTrigger>\/\/</tabTrigger>
   <description>// SECTION HEADER // ------ </description>
   <scope>source.scss</scope>
 </snippet>
