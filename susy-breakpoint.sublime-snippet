@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[@include at-breakpoint(${1:$tablet}) {
+$0
+}
+]]></content>
+  <tabTrigger>iab</tabTrigger>
+  <description>@include at-breakpoint($tablet)</description>
+  <scope>source.scss</scope>
+</snippet>
